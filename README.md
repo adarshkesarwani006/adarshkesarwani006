@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Adarsh Kesarwani</h1>
-<h3 align="center">I'm a Programmer, Web developer, Android Developer and an Electronics Undergraduate in India, I do a lot of pretty side Projects in them. Basically I'm a Jack of all trade, mastering gradually.</h3>
+<h3 align="center">I'm a Programmer, Web developer, Android Developer and an Electronics graduate in India, I do a lot of pretty side Projects in them. Basically I'm a Jack of all trade, mastering gradually.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkesarwani006&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkesarwani006" /> </p>
 
