@@ -1,15 +1,11 @@
 <h1 align="center">Namaste🙏, I'm Adarsh Kesarwani</h1>
-<h3 align="center">I'm a Programmer, Web developer, Android Developer and an Electronics graduate in India, I do a lot of pretty side Projects in them. Basically I'm a Jack of all trade, mastering gradually.</h3>
+<h3 align="justify">I'm a Programmer, Web developer, Android Developer and an Electronics graduate in India, I do a lot of pretty side Projects in them. Basically I'm a Jack of all trade, mastering gradually.I love to talk on Life, Psychology, Cars, Tech. Feel free to connect.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkesarwani006&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkesarwani006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshkesarwani006" alt="adarshkesarwani006" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://adarshkesarwani006.github.io/](https://adarshkesarwani006.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
